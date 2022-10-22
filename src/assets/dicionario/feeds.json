@@ -1,0 +1,188 @@
+{
+    "feeds": [
+        {
+            "_id": 1,
+            "datetime": "2019-11-01T12:00-0500",
+            "company": {
+                "name": "Tecnoagil",
+                "avatar": "../imgs/vaga.jpg"
+            },
+            "vaga": {
+                "name": "Analista de T.i",
+                "description": "100% REMOTO em São Paulo. R$ 1.400,00 a R$ 2.000,00 (Bruto mensal). Período Integral Prestador de Serviços (PJ) Área e especialização profissional: Informática, TI, Telecomunicações Programador / Desenvolvedor Nível hierárquico: Analista Local de trabalho: São José dos Campos, SP Regime de contratação de tipo Prestador de Serviços (PJ) Jornada Período Integral Atividades e Responsabilidades.",
+                "price": 1400.0,
+                "url": "https://www.linkedin.com/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "glasses2.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 2,
+            "datetime": "2019-10-01T12:00-0500",
+            "company": {
+                "name": "SICOOB",
+                "avatar": "../imgs/vaga.jpg"
+            },
+            "vaga": {
+                "name": "Desenvolvedor Java Jr",
+                "description": "Estamos contratando Desenvolvedor Java Junior para projetos de transformação digital, desenvolvendo ferramentas inovadoras para entregar a melhor experiência para os usuários da plataforma de uma grande empresa.",
+                "price": 1100.0,
+                "url": "https://www.linkedin.com/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "glasses0.jpeg"
+                    },
+                    {
+                        "id": "blob5",
+                        "type": "image",
+                        "file": "glasses1.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 3,
+            "datetime": "2019-09-01T12:00-0500",
+            "company": {
+                "name": "PMWEB",
+                "avatar": "../imgs/vaga.jpg"
+            },
+            "vaga": {
+                "name": "Desenvolvedor Frontend JR",
+                "description": "Procuramos desenvolvedor Frontend com experiência em Angular 5 e AngularJs Manutenção, atualização de novas funcionalidades. Desenvolvimento de HTML e CSS baseado nos protótipos disponibilizados pela área de análise. Formato de trabalho híbrido na Av Brigadeiro Faria Lima.",
+                "price": 3000.0,
+                "url": "https://www.linkedin.com/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "jewelry0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "jewelry1.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 4,
+            "datetime": "2019-08-01T12:00-0500",
+            "company": {
+                "name": "COCA-COLA",
+                "avatar": "../imgs/vaga.jpg"
+            },
+            "vaga": {
+                "name": "Desenvolvedor de Software (Júnior)",
+                "description": "Buscamos profissionais Desenvolvedores (Júnior) para vagas na área de Desenvolvimento.A AltoQi atua no mercado da construção civil há mais de 30 anos. Entregamos soluções completas, integradas e alinhadas à metodologia BIM (modelagem de informação da construção). Aqui você representará uma empresa que está introduzindo o conceito de empreendimento vivo no mercado, com soluções de software que apoiam tomadas de decisão durante todo ciclo de vida da construção. Acreditamos que o fortalecimento da nossa empresa só é possível se for desenvolvido junto com as pessoas. Incentivamos nossos colaboradores para que sejam protagonistas da sua carreira e estejam conectados ao nosso propósito de inovar e construir conexões que transformam vidas..",
+                "price": 2500.0,
+                "url": "https://www.linkedin.com/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "jewelry0.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 5,
+            "datetime": "2019-07-01T12:00-0500",
+            "company": {
+                "name": "Boticário",
+                "avatar": "boticario.jpeg"
+            },
+            "vaga": {
+                "name": "Maquiagem",
+                "description": "Assistente de maquiador profissional.",
+                "price": 1200.0,
+                "url": "https://www.linkedin.com/",
+                "blobs": [
+                    {
+                        "id": "blob9",
+                        "type": "image",
+                        "file": "makeup0.jpg"
+                    },
+                    {
+                        "id": "blob10",
+                        "type": "image",
+                        "file": "makeup1.jpg"
+                    },
+                    {
+                        "id": "blob11",
+                        "type": "image",
+                        "file": "makeup2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 6,
+            "datetime": "2019-06-01T12:00-0500",
+            "company": {
+                "name": "Arezzo",
+                "avatar": "arezzo.jpeg"
+            },
+            "vaga": {
+                "name": "Vendedor",
+                "description": "Vendedor Arezzo com experiencia.",
+                "price": 1550.0,
+                "url": "https://www.linkedin.com/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "shoes0.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "shoes1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "shoes2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 7,
+            "datetime": "2019-05-01T12:00-0500",
+            "company": {
+                "name": "Madereira Anna Clara",
+                "avatar": "dafiti.jpeg"
+            },
+            "vaga": {
+                "name": "Auxiliar de RH",
+                "description": "Realização de todo processo admissional; Agendar exames admissionais; Agendar exames demissionais; Conferir documentos; Organizar Arquivos; Atender aos colaboradores; Auxiliar em todas as rotinas de departamento pessoal.",
+                "price": 1800.0,
+                "url": "https://www.linkedin.com/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "shoes0.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "shoes1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "shoes2.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
